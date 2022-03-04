@@ -3,6 +3,6 @@
 ### 
 - 🔭 I’m currently studying in CQUPT
 - 🌱 I’m currently learning golang
-- 📫 How to reach me: 2523286318@qq.com
+- 📫 How to reach me: chengxisheng777@gmail.com
 ![](https://github-readme-stats.vercel.app/api?username=anneheartrecord)
 
