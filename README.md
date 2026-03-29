@@ -23,7 +23,7 @@
 #### 💼 工作经历
 
 <p>
-<strong>腾讯</strong> — <code>云原生基础架构</code> — <code>2023.05 至今</code><br/>
+<strong>腾讯</strong> — <code>云原生基础架构</code> — <code>2023.05 - 至今</code><br/>
 <strong>百度</strong> — <code>后端开发</code> — <code>2023.02 - 2023.05</code><br/>
 <strong>通明智云</strong> — <code>容器开发</code> — <code>2022.09 - 2022.12</code><br/>
 </p>
