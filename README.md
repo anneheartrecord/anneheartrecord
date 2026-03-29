@@ -1,4 +1,3 @@
-[English](./README_EN.md)
 
 <div align="center">
 
