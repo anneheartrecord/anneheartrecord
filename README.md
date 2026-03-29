@@ -12,7 +12,6 @@
     <a href="https://x.com/Charles77xixi"><img src="https://img.shields.io/badge/X-@Charles77xixi-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
     <a href="https://juejin.cn/user/2832810607646439/"><img src="https://img.shields.io/badge/掘金-anneheartrecord-1E80FF?style=flat-square&logo=juejin&logoColor=white" alt="掘金"/></a>
     <a href="mailto:chengxisheng777@gmail.com"><img src="https://img.shields.io/badge/Gmail-chengxisheng777-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://github.com/anneheartrecord"><img src="https://img.shields.io/badge/GitHub-anneheartrecord-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
 </div>
