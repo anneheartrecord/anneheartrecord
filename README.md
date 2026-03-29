@@ -46,7 +46,3 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anneheartrecord&show_icons=true&theme=default" alt="GitHub Stats"/>
-</div>
