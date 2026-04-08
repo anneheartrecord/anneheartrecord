@@ -72,26 +72,14 @@
 #### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anneheartrecord&theme=flat&no-frame=true&column=7&margin-w=8" alt="trophy"/>
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anneheartrecord&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"/>
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anneheartrecord&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anneheartrecord&layout=compact&hide_border=true&langs_count=8&theme=dark"/>
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anneheartrecord&layout=compact&hide_border=true&langs_count=8" alt="langs"/>
-</picture>
+<img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anneheartrecord&theme=default" alt="profile-details"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anneheartrecord&hide_border=true" alt="streak"/>
+<img width="355" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anneheartrecord&theme=default" alt="stats"/>
+<img width="355" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anneheartrecord&theme=default&utcOffset=8" alt="productive-time"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anneheartrecord&theme=minimal&hide_border=true&area=true" alt="activity"/>
+<img width="720" src="https://streak-stats.demolab.com/?user=anneheartrecord&hide_border=true" alt="streak"/>
 </div>
