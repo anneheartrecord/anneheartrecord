@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+Im+AnneHeartRecord.+DevOps+%26+Agent+Engineer." alt="Hi"/>
 
   <p>
-    Focused on cloud-native infrastructure and AI platform engineering.<br/>
+    Focused on cloud-native infrastructure and AI Agent engineering.<br/>
     I enjoy building systems that make complex things simple and invisible.
   </p>
 
