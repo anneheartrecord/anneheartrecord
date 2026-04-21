@@ -29,7 +29,7 @@
 #### 💼 Experience
 
 <p>
-<strong>Tencent</strong> — <code>Cloud-Native Infrastructure</code> — <code>2023.05 - 2026.05</code><br/>
+<strong>Tencent Music Entertainment</strong> — <code>Cloud-Native Infrastructure</code> — <code>2023.05 - 2026.05</code><br/>
 <strong>Baidu</strong> — <code>Backend Development Intern</code> — <code>2023.02 - 2023.05</code><br/>
 <strong>TML</strong> — <code>Container Development Intern</code> — <code>2022.09 - 2022.12</code><br/>
 </p>
