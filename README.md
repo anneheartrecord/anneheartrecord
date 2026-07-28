@@ -35,12 +35,6 @@
 <strong>TML</strong> — <code>Container Development Intern</code> — <code>2022.09 - 2022.12</code><br/>
 </p>
 
-#### 🎓 Education
-
-<p>
-<strong>Chongqing University of Posts and Telecommunications</strong><br/>
-<code>Information Security, B.E.</code> — <code>2020.09 - 2024.06</code>
-</p>
 
 </td>
 <td valign="top" width="50%">
